@@ -1,0 +1,2 @@
+Addede the different comparison operators to the language, such as equals, not equals, less than, tec.
+Will check when user inputs something like 5 == 5, which will return 1, and 0 for something like 5 == 6
